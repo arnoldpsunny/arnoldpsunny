@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Arnold P Sunny
+
+I'm an aspiring Data Analyst with keen interest in handling and manipulating the data and providing the best possible insight on the same.
 
 # 💫 About Me:
 A passionate data analyst with a strong aptitude for using statistical methods<br> and tools to extract insights from large datasets who possesses a keen eye for detail<br> and is proficient in data visualization, data cleaning, and data modeling.
